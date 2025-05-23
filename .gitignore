@@ -1,5 +1,6 @@
-.car_image/
-.character_image/
-.MyCNNModel/
-.plate_image/
+car_image/
+character_image/
+MyCNNModel/
+plate_image/
 .idea/
+__pycache__/
